@@ -17,3 +17,6 @@ Maze city is a desert city based on a circular maze. The bomb point is in the mi
 
 ------------------------------------------------
 Vietnam is a map set in a US base in the Vietnam war. I made it in response to the addition of the m16.
+
+------------------------------------------------
+Museum is my entry for the "Quest for content" contest, it is set in a museum.
