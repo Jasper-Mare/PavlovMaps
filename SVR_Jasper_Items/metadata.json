@@ -1,0 +1,11 @@
+{
+	"Id": "SVR_Jasper_Items",
+	"Version": 1,
+	"MapLabel": "Items",
+	"IsCustomGameMode": false,
+	"CustomGameModeLabel": "",
+	"AndroidPakSize": 1654135,
+	"WindowsPakSize": 0,
+	"LinuxServerPakSize": 0,
+	"ShackLinuxServerPakSize": 476623
+}
