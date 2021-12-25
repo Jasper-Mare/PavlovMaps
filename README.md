@@ -1,8 +1,6 @@
 # PavlovMaps
 Maps I have made for the game Pavlov.
 
-------------------------------------------------
-
 Descriptions:
 
 ------------------------------------------------
