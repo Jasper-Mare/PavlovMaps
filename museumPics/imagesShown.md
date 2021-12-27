@@ -1,4 +1,4 @@
-There have been some changes since this photo was taken, the buildings' windows were textured and lamp models were added to ceilings.
+There have been some changes since these photos were taken, the buildings' windows were textured and lamp models were added to ceilings.
 
 Top View:
 
