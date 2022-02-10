@@ -20,3 +20,6 @@ Vietnam is a map set in a US base in the Vietnam war. I made it in response to t
 
 ------------------------------------------------
 Museum is my entry for the "Quest for content" contest, it is set in a museum.
+
+------------------------------------------------
+Sword Fight is a map with a custom gamemode where bayonets are re-sized to look like swords.
