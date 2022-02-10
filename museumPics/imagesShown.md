@@ -1,3 +1,5 @@
+There have been some changes since these photos were taken, the buildings' windows were textured and lamp models were added to ceilings.
+
 Top View:
 
 ![alt text](museum.PNG?raw=true)
