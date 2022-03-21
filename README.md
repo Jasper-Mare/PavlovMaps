@@ -23,3 +23,6 @@ Museum is my entry for the "Quest for content" contest, it is set in a museum.
 
 ------------------------------------------------
 Sword Fight is a map with a custom gamemode where bayonets are re-sized to look like swords.
+
+------------------------------------------------
+Netherlands is a map set in the Netherlands ww2 where an allied commando group are try to destroy 2 bridges to hinder the Germans' occupation.
