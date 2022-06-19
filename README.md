@@ -1,5 +1,5 @@
 # PavlovMaps
-Maps I have made for the game Pavlov.
+Maps I have made for the mobile (shack) version of the game Pavlov.
 
 Descriptions:
 
