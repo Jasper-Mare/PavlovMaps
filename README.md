@@ -26,3 +26,7 @@ Sword Fight is a map with a custom gamemode where bayonets are re-sized to look 
 
 ------------------------------------------------
 Netherlands is a map set in the Netherlands ww2 where an allied commando group are try to destroy 2 bridges to hinder the Germans' occupation.
+
+------------------------------------------------
+High Up is quite a small map, compatible with push and snd as well as most other modes
+It kinda looks like an empty shopping centre at the top of a skyscraper
